@@ -15,3 +15,5 @@ Tehnikuma beigas saku macities JavaScript
 Pabeidzu tehnikumu ar izveidotu programmu (atgadinatajs/kalendars)
 
 What i want to learn in this course
+
+Es veletos iemacities projektesanu - ka izstradat sistemas arhitekturu, datubazes strukturu un vinas arhitekturu
