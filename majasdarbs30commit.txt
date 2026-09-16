@@ -10,3 +10,4 @@ Pabeidzu Vidzemes dizaina tehnikumu
 
 My experience with programming
 Saku programmet tehnikuma pamatus ar php
+Tehnikuma 2 gada jau macijos html kopa ar css
