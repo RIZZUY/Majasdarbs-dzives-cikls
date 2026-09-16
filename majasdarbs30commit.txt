@@ -19,3 +19,4 @@ What i want to learn in this course
 Es veletos iemacities projektesanu - ka izstradat sistemas arhitekturu, datubazes strukturu un vinas arhitekturu
 Velos iemacities paurbaudit kodu, lai savlaicigi atklatu kludas, un parliecinaties ka sistemas stradas attiecigi
 Apgut rikus kas palidzes koda testesanu dazu minusu laika (integracijas un lietotaju saskarnes testus)
+Palielam velos apgut Atrumu, Drosibu un Kvalitati savam kodam
