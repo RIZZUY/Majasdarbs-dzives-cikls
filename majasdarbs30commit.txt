@@ -9,3 +9,4 @@ Esmu students Vidzemes Augstkola
 Pabeidzu Vidzemes dizaina tehnikumu
 
 My experience with programming
+Saku programmet tehnikuma pamatus ar php
