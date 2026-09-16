@@ -1,22 +1,23 @@
-Sveiki, mani sauc Gustavs
-Macos es 3 kursa
-
 About me
 
-Man ir 22 gadi
-Mans hobijs ir galda/dator spēles
-Esmu students Vidzemes Augstkola
-Pabeidzu Vidzemes dizaina tehnikumu
+Sveiki, mani sauc Gustavs.
+Mācos 3. kursā.
+
+Man ir 22 gadi.
+Mans hobijs ir galda un datorspēles.
+Esmu students Vidzemes Augstskolā.
+Pabeidzu Vidzemes Dizaina un tehnoloģiju tehnikumu.
 
 My experience with programming
-Saku programmet tehnikuma pamatus ar php
-Tehnikuma 2. gada jau macijos html kopa ar css
-Tehnikuma beigas saku macities JavaScript
-Pabeidzu tehnikumu ar izveidotu programmu (atgadinatajs/kalendars)
 
-What i want to learn in this course
+Sāku programmēšanas pamatus apgūt tehnikumā, izmantojot PHP.
+Tehnikuma 2. gadā jau mācījos HTML kopā ar CSS.
+Tehnikuma beigās sāku mācīties JavaScript.
+Pabeidzu tehnikumu ar izveidotu programmu — atgādinātāju/kalendāru.
 
-Es veletos iemacities projektesanu - ka izstradat sistemas arhitekturu, datubazes strukturu un vinas arhitekturu
-Velos iemacities paurbaudit kodu, lai savlaicigi atklatu kludas, un parliecinaties ka sistemas stradas attiecigi
-Apgut rikus kas palidzes koda testesanu dazu minusu laika (integracijas un lietotaju saskarnes testus)
-Palielam velos apgut Atrumu, Drosibu un Kvalitati savam kodam
+What I want to learn in this course
+
+Es vēlētos iemācīties projektēšanu — kā izstrādāt sistēmas arhitektūru, datubāzes struktūru un tās arhitektūru.
+Vēlos iemācīties pārbaudīt kodu, lai savlaicīgi atklātu kļūdas un pārliecinātos, ka sistēma darbojas atbilstoši prasībām.
+Vēlos apgūt rīkus, kas palīdzēs koda testēšanu veikt dažu minūšu laikā, tostarp integrācijas un lietotāja saskarnes testus.
+Palielam vēlos apgūt ātrumu, drošību un kvalitāti savā kodā.
